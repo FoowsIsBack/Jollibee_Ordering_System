@@ -1,6 +1,6 @@
 # Mini_store
 
-#Install
+# Install
 ```sh
 git clone https://github.com/FoowsIsBack/Mini_store.git
 cd Mini_store
