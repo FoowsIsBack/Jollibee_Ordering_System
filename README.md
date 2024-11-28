@@ -1,5 +1,5 @@
 # Jollibee_Ordering_System
-![image](https://github.com/user-attachments/assets/7a3addd8-e479-4e45-b286-0af779cbb30a)
+![image](https://github.com/user-attachments/assets/7f7fe254-e0f0-4a90-9497-f5dbd5d30bbd)
 
 # Install
 ```sh
